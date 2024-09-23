@@ -1,0 +1,44 @@
+.food-box{
+    display: flex;
+   flex-direction: row;
+    max-width:20rem;
+    margin: 1rem 0.5rem;
+    border-radius: 9px;
+    height:100vh;
+    
+}
+.food-card{
+   background-color: rgb(255, 255, 255);
+    max-height: 40rem;
+    height:26rem;
+    border:1px solid rgb(216, 216, 216);
+    border-radius:6px;
+    margin:1ch 1ch;
+    width:20rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 20rem;
+   
+    
+}
+.food-img{
+    object-fit:cover;
+    margin-top: 7px;
+    justify-content: center;
+    border-radius: 6px;
+    
+    
+   
+    
+}
+
+.buy-btn{  
+    text-decoration: none;
+    padding:0.5rem 1.5rem;
+    border: 1px solid ;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.submit-btn{
+  margin-top: 0.5rem;
+  border: solid 1px rgb(15, 93, 228);
+  background:rgb(15, 93, 228) ;
+  border-radius: 6px;
+  font-weight: bold;
+  color: aliceblue;
+}
+.search-box{
+  border-radius: 6px;
+  
+
+}
